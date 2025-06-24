@@ -1,0 +1,17 @@
+From: support@amaz0n-verification.com  
+To: user@example.com  
+Subject: Urgent! Your Account Has Been Suspended  
+
+Dear Customer,
+
+Your Amazon account has been suspended due to suspicious activity.
+
+Please verify your account immediately by clicking the link below:
+http://amaz0n-security-check.com/login
+
+Failure to do so will result in permanent suspension of your account.
+
+Sincerely,  
+Amazon Security Team  
+
+Attachment: Amazon_Security_Form.exe
